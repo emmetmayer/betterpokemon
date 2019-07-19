@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708f36d925e45274ea14f8b4816964c9, type: 3}
+  m_Name: Fireblast
+  m_EditorClassIdentifier: 
+  moveName: Fireblast
+  damage: 15
+  type: Fire
+  color: {r: 1, g: 0.2980392, b: 0.16470587, a: 1}
+  energy: 1
+  moveEffect: {fileID: 6884210594904480031, guid: a5a4294baae7aa1428576857d55f2be0,
+    type: 3}
